@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="connect_to_internet">Please connect to internet and try again</string>
+</resources>
